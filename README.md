@@ -1,6 +1,7 @@
 # LarCAProjetoSSole
 
   O Laboratório de Robótica e Computação Aplicada (LaRCA) do Instituto Federal do Paraná iniciou uma equipe de discentes que estão desenvolvendo um sistema de estratégia para a SSL utilizando os padrões de comunicação padronizados pela liga que são em cima do protobuf protocol(PROTOBUF, Protocol Google, 2023).O projeto envolve a troca de informações sobre as posições dos robôs e da bola, cálculos para controlar o movimento das rodas e previsão da trajetória da bola utilizando a teoria de trigonometria.
+  
   Técnicas matemáticas, como o Filtro de Kalman e a Trigonometria, desempenham papéis essenciais, otimizando trajetórias e estratégias para a precisão e eficiência das ações dos robôs na competição. Além disso, essas técnicas têm aplicações na mobilidade urbana, como monitoramento de tráfego para evitar colisões. No SSL, as equipes usam o Google Protocol Buffer para receber informações em tempo real sobre o posicionamento das equipes em campo, combinando-as com histórico anterior para prever a posição futura da bola e dos adversários. Isso permite que o sistema de estratégia tome decisões para a equipe. 
   A metodologia inclui revisão bibliográfica, experimentos em ambiente virtual (grSim) e o uso do Filtro de Kalman para estimar a posição e orientação dos robôs. Essas técnicas contribuem para a navegação autônoma e interação de robôs em ambientes dinâmicos, melhorando a tecnologia robótica. Quando combinadas com outras técnicas de IA, como Aprendizado por Reforço, ampliam as chances de sucesso das equipes de futebol de robôs.
 
